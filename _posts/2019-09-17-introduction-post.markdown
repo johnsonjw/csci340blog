@@ -11,4 +11,4 @@ categories: jekyll update
  * Learning how this helps us with databases
  * Interacting more with our blog website
  * Designing it to look a bit different
- For more information about how I did all of this please visit [this page](http://mark.goadrich.com/courses/csci340f19/labs/lab3.html)
+For more information about how I did all of this please visit [this page](http://mark.goadrich.com/courses/csci340f19/labs/lab3.html)
