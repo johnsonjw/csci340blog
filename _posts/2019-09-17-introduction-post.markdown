@@ -14,4 +14,4 @@ categories: jekyll update
 
 
 
--For more information about how I did all of this please visit [this page](http://mark.goadrich.com/courses/csci340f19/labs/lab3.html)
+For more information about how I did all of this please visit [this page](http://mark.goadrich.com/courses/csci340f19/labs/lab3.html)
