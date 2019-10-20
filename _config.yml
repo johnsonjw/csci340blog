@@ -16,13 +16,10 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
+  - title:
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github: johnsonjw
+  email: johnsonjw@hendrix.edu
 
 google_analytics: "UA-58263416-1"
