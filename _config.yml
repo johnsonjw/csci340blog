@@ -16,7 +16,10 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title:
+  - title: Spacelords
+    url: /Spacelords
+  - title: Classlink
+    url: /Classlink
 
 social:
   github: johnsonjw
