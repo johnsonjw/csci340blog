@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "SW Reflection!"
+date:   2019-12-17 15:47:39 -0500
+categories: jekyll update
+author: Jordan Johnson
+---
+
+During this past semester we were given the opportunity to work with the Salvation Army to design a website that reflected a certain goal. That goal was to update their way of keeping track of volunteers, updating their website, and giving them a way for volunteers to sign up. Working with Patricia Knox as the correspondent of Salvation Army was amazing. She had an exact idea of what she wanted and I feel that my group definitely gave form to her idea. However, in the beginning we barely even knew how to give this form to her idea.
+
+During out first client meeting we went through the main problem that she was facing at that was that keeping track of certain events by paper was turning into a lot of paperwork and filling out forms. She pulled out 5 different forms that basically represented information for one person to do one event. On the one hand I was glad that we were given these forms since most of our schema came from them, but just looking at how many stacks of paper there were was depressing since there were not that many people helping out in the first place. Another thing to mention was trying to convert computer science speak to English. We are constantly surrounded in an environment of academics when we are on campus, so asking our community partner who has not worked in the computer science field about “What type of bootstrap she would prefer?” or “What framework would you think is best?” was meaningless. She knew this and tried to draw out the things that could be represented as data and what could be a function within the website, which I am very grateful for. It made me think about how much nonprofit work gets ignored within a technological aspect. Everything that they had was on paper the volunteers, the hours, and donations were all in huge stacks of paper that could have been easily solved with technology. My view on nonprofit work has changed and it has been for the better ever since I worked with our community partner and seeing how hard she has to work to keep track of so many items. This course has taught me a lot about how to build a website and it also taught me about how to be a charitable person.
